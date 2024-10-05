@@ -34,6 +34,6 @@ public class LCMCalculator {
     }
 }
 //Output: 
-// Enter the first whole number (num1): 6
-// Enter the second whole number (num2): 3
-// The Least Common Multiple (LCM) of 6 and 3 is: 18
+// Enter the first whole number (num1): 4
+// Enter the second whole number (num2): 6
+// The Least Common Multiple (LCM) of 6 and 3 is: 12
